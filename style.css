@@ -1,0 +1,24 @@
+.about{
+    background-color: cyan;
+}
+h1{
+font-size: larger;
+}
+h2{
+    size: 0cqb;
+}
+div{
+    color: cadetblue;
+}
+h3{
+    color: darkslateblue;
+}
+h4{
+    color: blueviolet;
+}
+h1{
+    color: goldenrod;
+}
+:-moz-submit-invalid{
+    color: blue;
+}
